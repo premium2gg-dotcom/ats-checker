@@ -1,0 +1,4 @@
+Flask
+pypdf
+python-docx
+gunicorn
